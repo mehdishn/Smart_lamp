@@ -1,4 +1,2 @@
 # Intro
-Lua script for a smart bedroom lamp controller.
-It has minimal html UI.
-Tested on NodeMCU.
+Lua script for a smart bedroom lamp controller.<br>It has minimal html UI.<br>Tested on NodeMCU.
